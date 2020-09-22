@@ -1,0 +1,2 @@
+# mkmig
+ Makes flyway migration
